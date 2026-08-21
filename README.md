@@ -80,13 +80,3 @@ O sistema foi desenvolvido para facilitar a organização do ensalamento e evita
 
 ---
 
-## 🎓 Observação
-
-Este sistema foi desenvolvido como trabalho acadêmico para a disciplina de **Prática Profissional em Desenvolvimento Web** — Engenharia de Software.
-
-<div align="center">
-
----
-Feito com 💙 pela equipe Unibrasil — 2026
-
-</div>
