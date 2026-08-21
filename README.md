@@ -22,11 +22,13 @@
 
 **Professor orientador:** Frank
 
-| Alunos |
+| Aluno |
+|---|
 | Beatrys Belo |
 | Kauã Fuckner |
 | Nicoly Ribeiro |
 | Julio Stoy |
+
 
 O sistema permite cadastrar e consultar as turmas, seus horários, professores, quantidade de alunos e salas.
 
