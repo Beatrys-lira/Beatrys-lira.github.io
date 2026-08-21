@@ -22,8 +22,7 @@
 
 **Professor orientador:** Frank
 
-| Aluno |
-|---|
+| Alunos |
 | Beatrys Belo |
 | Kauã Fuckner |
 | Nicoly Ribeiro |
@@ -44,13 +43,13 @@ Centralizar as informações de turmas, disciplinas, professores, alunos, horár
 
 ## ⚙️ Funcionalidades
 
-- ✅ Cadastro de turmas e disciplinas
-- ✅ Cadastro de professores, alunos e coordenadores
-- ✅ Organização de horários e salas
-- ✅ Consulta do ensalamento
-- ✅ Identificação de conflitos de salas e horários
-- ✅ Alteração e publicação do ensalamento
-- ✅ Histórico das alterações
+ Cadastro de turmas e disciplinas
+ Cadastro de professores, alunos e coordenadores
+ Organização de horários e salas
+ Consulta do ensalamento
+ Identificação de conflitos de salas e horários
+ Alteração e publicação do ensalamento
+ Histórico das alterações
 
 ---
 
