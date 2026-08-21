@@ -58,11 +58,6 @@ Centralizar as informações de turmas, disciplinas, professores, alunos, horár
 
 O sistema foi desenvolvido para facilitar a organização do ensalamento e evitar problemas como conflitos de horários, salas ocupadas por mais de uma turma e falta de informações atualizadas.
 
----
+<div/>
 
-## 💻 Tecnologias
-
-
-
----
 
